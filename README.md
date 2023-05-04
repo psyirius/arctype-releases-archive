@@ -1,2 +1,2 @@
-# arctype-releases
-Arctype Binary Releases
+# arctype-releases-archive
+Arctype Binary Releases Archive
